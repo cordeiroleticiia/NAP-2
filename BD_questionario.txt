@@ -1,0 +1,5 @@
+"1. Se P é verdadeiro e Q é falso, então P ^ Q é verdadeiro. (V/F)"#f
+"2. Se P é falso e Q é verdadeiro, então P v Q é verdadeiro. (V/F)"#v
+"3. Se P é verdadeiro, então ¬P é falso. (V/F)"#v
+"4. Se P é verdadeiro, então P -> Q é verdadeiro mesmo se Q for falso. (V/F)"#v
+"5. Se P é falso, então ¬P é verdadeiro. (V/F)"#v
